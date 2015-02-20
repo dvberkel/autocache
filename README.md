@@ -16,7 +16,7 @@ Autocache can be used either on the server or on the client (again, recommended 
 
 General usage:
 
-- Define a storage proceedure against a `key`
+- Define a storage procedure against a `key`
 - Get the key value
 - Clear/invalidate values (TODO: implement TTL)
 
